@@ -1,44 +1,42 @@
 name: Generate Contribution Snake
 
 on:
-schedule:
-- cron: "0 0 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-generate:
-runs-on: ubuntu-latest
-timeout-minutes: 10
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
 
-```
-steps:
-  - name: Checkout repository
-    uses: actions/checkout@v6
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Generate Snake
-    uses: Platane/snk/svg-only@v3
-    with:
-      github_user_name: ${{ github.repository_owner }}
-      outputs: |
-        dist/github-snake.svg?color_snake=%23CAFF3C&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%23CAFF3C
-        dist/github-snake-dark.svg?color_snake=%238AFF57&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%238AFF57
-    env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate Snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=%23CAFF3C&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%23CAFF3C
+            dist/github-snake-dark.svg?color_snake=%238AFF57&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%238AFF57
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-  - name: Commit and push generated files
-    run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Commit and push generated files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      git add dist/
+          git add dist/
 
-      if git diff --cached --quiet; then
-        echo "No changes to commit."
-      else
-        git commit -m "Update contribution snake"
-        git push
-      fi
-```
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update contribution snake"
+            git push
+          fi
