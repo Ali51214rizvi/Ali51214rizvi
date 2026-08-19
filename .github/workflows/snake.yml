@@ -1,0 +1,30 @@
+name: Generate Contribution Snake
+
+on:
+schedule:
+- cron: "0 0 * * *"
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate Snake
+    uses: Platane/snk/svg-only@v3
+    with:
+      github_user_name: ${{ github.repository_owner }}
+      outputs: |
+        dist/github-snake.svg?color_snake=%23CAFF3C&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%23CAFF3C
+        dist/github-snake-dark.svg?color_snake=%238AFF57&color_dots=%230A0F08,%23182A0F,%233A5A1A,%236F8F2F,%238AFF57
+
+  - name: Commit generated snake
+    uses: EndBug/add-and-commit@v9
+    with:
+      message: "Update contribution snake"
+      add: "dist"
+```
