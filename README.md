@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08" />
 </a>
 
-<a href="mailto:[alihasnain.at.tides@gmail.com](mailto:alihasnain.at.tides@gmail.com)">
+<a href="mailto:alihasnain.at.tides@gmail.com">
 <img src="https://img.shields.io/badge/Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08" />
 </a>
 
@@ -32,7 +32,6 @@
 
 </div>
 
----
 
 ## `> whoami`
 
@@ -47,8 +46,6 @@ STACK      = React | Node.js | Express | Python | MongoDB
 FOCUS      = Agentic AI | AI Agents | AI Automation | LLM Applications
 CURRENTLY  = Learning and building Agentic AI systems
 ```
-
----
 
 ## `> tech-stack`
 
@@ -79,7 +76,6 @@ CURRENTLY  = Learning and building Agentic AI systems
 <img src="https://img.shields.io/badge/JSON-8AFF57?style=for-the-badge&logo=json&logoColor=0A0F08" />
 <img src="https://img.shields.io/badge/API%20Integration-CAFF3C?style=for-the-badge&logoColor=0A0F08" />
 
----
 
 ## `> expertise`
 
@@ -93,11 +89,11 @@ CURRENTLY  = Learning and building Agentic AI systems
 | **Databases**         | MongoDB, MySQL, Supabase                                               |
 | **Development Tools** | Git, GitHub, VS Code, Jupyter Notebook                                 |
 
----
 
 ## `> ls /projects`
 
-<details open> <summary><b> ProctorAI — AI-Powered Proctoring System</b></summary>
+<details open>
+<summary><b> ProctorAI — AI-Powered Proctoring System</b></summary>
 
 <br>
 
@@ -113,7 +109,8 @@ A full-stack AI proctoring system developed as a university Final Year Project t
 
 <br>
 
-<details> <summary><b> Gym Management System</b></summary>
+<details>
+<summary><b> Gym Management System</b></summary>
 
 <br>
 
@@ -123,7 +120,8 @@ A software solution developed for managing gym-related operations and workflows.
 
 <br>
 
-<details> <summary><b> Inventory Management System</b></summary>
+<details>
+<summary><b> Inventory Management System</b></summary>
 
 <br>
 
@@ -131,27 +129,23 @@ A software solution designed to manage inventory-related records and operational
 
 </details>
 
----
 
 ## `> achievements`
 
-| Achievement                                                                       | Year |
-| :-------------------------------------------------------------------------------- | :--: |
-|  **Certificate of Excellence — 1st Position Overall, University FYP Competition** | 2026 |
-|  **Certificate of Appreciation — Event Organizer, University FYP Exhibition**     | 2026 |
-|  **Certificate of Completion — Final Year Project, University of Gujrat**         | 2026 |
+| Achievement                                                                      | Year |
+| :------------------------------------------------------------------------------- | :--: |
+| **Certificate of Excellence — 1st Position Overall, University FYP Competition** | 2026 |
+| **Certificate of Appreciation — Event Organizer, University FYP Exhibition**     | 2026 |
+| **Certificate of Completion — Final Year Project, University of Gujrat**         | 2026 |
 
----
 
 ## `> education`
 
-###  Bachelor of Science in Computer Science
+### Bachelor of Science in Computer Science
 
 **University of Gujrat**
 
 Completed in **2026**.
-
----
 
 ## `> current-focus.yaml`
 
@@ -177,9 +171,6 @@ open_to:
   - Full-Stack Development opportunities
   - AI Automation opportunities
 ```
-
----
-
 ## `> github-analytics`
 
 <div align="center">
@@ -198,8 +189,6 @@ open_to:
 
 </div>
 
----
-
 ## `> contribution-activity`
 
 <div align="center">
@@ -208,7 +197,14 @@ open_to:
 
 </div>
 
----
+<h2 align="center">🐍 Contribution Snake</h2> <div align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali51214rizvi/Ali51214rizvi/main/dist/github-snake-dark.svg">
+
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali51214rizvi/Ali51214rizvi/main/dist/github-snake.svg">
+
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ali51214rizvi/Ali51214rizvi/main/dist/github-snake.svg">
+</picture>
+
+</div>
 
 ## `> github-trophies`
 
@@ -218,8 +214,6 @@ open_to:
 
 </div>
 
----
-
 ## `> profile-summary`
 
 <div align="center">
@@ -227,8 +221,6 @@ open_to:
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ali51214rizvi&theme=github_dark" width="100%" />
 
 </div>
-
----
 
 ## `> connect`
 
@@ -242,7 +234,7 @@ open_to:
 <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-8AFF57?style=for-the-badge&logo=linkedin&logoColor=0A0F08" />
 </a>
 
-<a href="mailto:[alihasnain.at.tides@gmail.com](mailto:alihasnain.at.tides@gmail.com)">
+<a href="mailto:alihasnain.at.tides@gmail.com">
 <img src="https://img.shields.io/badge/Send%20an%20Email-CAFF3C?style=for-the-badge&logo=gmail&logoColor=0A0F08" />
 </a>
 
@@ -255,3 +247,4 @@ open_to:
 ### `Building with AI. Solving with code. Learning every day.`
 
 </div>
+
