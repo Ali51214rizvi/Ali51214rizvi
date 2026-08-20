@@ -251,14 +251,38 @@ open_to:
 
 <br><br>
 
-### 💻 Most Used Languages
+<br><br>
 
-<img 
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizvi&layout=compact&hide_border=true&langs_count=8"
-  width="420"
-  alt="Most Used Programming Languages"
-/>
+### 💻 Tech Stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nodejs,express,html,css,tailwind,mongodb,mysql,supabase,git,github&perline=7" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-CAFF3C?style=for-the-badge&logo=python&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/JavaScript-8AFF57?style=for-the-badge&logo=javascript&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/TypeScript-E8F5E1?style=for-the-badge&logo=typescript&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/React-CAFF3C?style=for-the-badge&logo=react&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/Node.js-8AFF57?style=for-the-badge&logo=node.js&logoColor=0B0F0D" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Express.js-E8F5E1?style=for-the-badge&logo=express&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-CAFF3C?style=for-the-badge&logo=tailwindcss&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/MongoDB-8AFF57?style=for-the-badge&logo=mongodb&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/MySQL-E8F5E1?style=for-the-badge&logo=mysql&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/Supabase-CAFF3C?style=for-the-badge&logo=supabase&logoColor=0B0F0D" />
+
+<br>
+
+<img src="https://img.shields.io/badge/HTML5-8AFF57?style=for-the-badge&logo=html5&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/CSS3-E8F5E1?style=for-the-badge&logo=css3&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/Git-CAFF3C?style=for-the-badge&logo=git&logoColor=0B0F0D" />
+<img src="https://img.shields.io/badge/GitHub-8AFF57?style=for-the-badge&logo=github&logoColor=0B0F0D" />
+
+</div>
 ---
 
 ## `09 // CONTRIBUTION SNAKE`
