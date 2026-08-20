@@ -44,7 +44,7 @@
 <tr>
 <td width="60%">
 
-### 👋 Hello, I'm Ali
+###  Hello, I'm Ali
 
 I'm a Computer Science graduate focused on **AI engineering, full-stack development, AI automation, and modern LLM-based applications**.
 
@@ -82,7 +82,7 @@ LOCATION   = Pakistan
 
 ## `02 // CURRENT STACK`
 
-### 🧠 AI & Intelligent Systems
+###  AI & Intelligent Systems
 
 <p>
 <img src="https://img.shields.io/badge/AI%20Automation-CAFF3C?style=for-the-badge&logoColor=0B0F0D" />
@@ -102,19 +102,19 @@ LOCATION   = Pakistan
 <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,nodejs,express" />
 </p>
 
-### 🗄️ Databases & Backend
+###  Databases & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase,nodejs,express" />
 </p>
 
-### 🛠️ Development Tools
+###  Development Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter" />
 </p>
 
-### 🔌 APIs & Integration
+###  APIs & Integration
 
 <p>
 <img src="https://img.shields.io/badge/REST%20APIs-CAFF3C?style=for-the-badge&logoColor=0B0F0D" />
@@ -140,7 +140,7 @@ LOCATION   = Pakistan
 
 ## `04 // FEATURED PROJECTS`
 
-### 🛡️ ProctorAI
+###  ProctorAI
 **AI-Powered Online Examination Proctoring System**
 
 A full-stack AI proctoring system developed as a university Final Year Project to address online examination monitoring and cheating detection.
@@ -154,7 +154,7 @@ COMPETITION    → University FYP Competition 2026
 
 <br>
 
-### 🏋️ Gym Management System
+###  Gym Management System
 
 A software solution developed for managing gym-related operations, records, and workflows.
 
@@ -165,7 +165,7 @@ PURPOSE        → Gym Management & Operations
 
 <br>
 
-### 📦 Inventory Management System
+###  Inventory Management System
 
 A software solution designed to manage inventory-related records and operational workflows.
 
@@ -180,7 +180,7 @@ PURPOSE        → Inventory & Record Management
 
 <div align="center">
 
-| 🏆 Achievement | Year |
+|  Achievement | Year |
 | :--- | :---: |
 | **Certificate of Excellence — 1st Position Overall, University FYP Competition** | 2026 |
 | **Certificate of Appreciation — Event Organizer, University FYP Exhibition** | 2026 |
@@ -194,7 +194,7 @@ PURPOSE        → Inventory & Record Management
 
 <div align="center">
 
-### 🎓 Bachelor of Science in Computer Science
+###  Bachelor of Science in Computer Science
 
 **University of Gujrat**
 
@@ -231,7 +231,7 @@ open_to:
 
 ---
 
-### 🔥 Contribution Streak
+###  Contribution Streak
 
 <img
    src="https://streak-stats.demolab.com/?user=Ali51214rizvi&theme=dark&hide_border=true"
@@ -241,7 +241,7 @@ open_to:
 
 <br><br>
 
-### 📊 Contribution Activity
+###  Contribution Activity
 
 <img
   src="https://github-readme-activity-graph.vercel.app/graph?username=Ali51214rizvi&bg_color=0B0F0D&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true&custom_title=Ali%20Hasnain%20-%20Contribution%20Activity"
@@ -253,7 +253,7 @@ open_to:
 
 <br><br>
 
-### 💻 Tech Stack
+###  Tech Stack
 
 <div align="center">
 
@@ -346,7 +346,7 @@ alt="GitHub Profile Summary"
 
 <div align="center">
 
-### Let's build something intelligent. 🚀
+### Let's build something intelligent. 
 
 <br>
 
