@@ -231,15 +231,12 @@ open_to:
 
 ---
 
-## `08 // GITHUB ANALYTICS`
-
-<div align="center">
-
 ### 🔥 Contribution Streak
 
 <img
-src="https://streak-stats.demolab.com/?user=Ali51214rizvi&theme=dark&hide_border=true&background=0B0F0D&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&currStreakNum=E8F5E1&sideNums=E8F5E1&dates=E8F5E1"
-alt="GitHub Contribution Streak"
+  src="https://streak-stats.demolab.com/?user=Ali51214rizvi&hide_border=true&background=0B0F0D&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&currStreakNum=E8F5E1&sideNums=E8F5E1&dates=8B949E"
+  width="49%"
+  alt="GitHub Contribution Streak"
 />
 
 <br><br>
@@ -247,22 +244,22 @@ alt="GitHub Contribution Streak"
 ### 📊 Contribution Activity
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Ali51214rizvi&bg_color=0B0F0D&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true&custom_title=Ali%20Hasnain%20-%20Contribution%20Activity"
-width="100%"
-alt="GitHub Contribution Activity"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Ali51214rizvi&bg_color=0B0F0D&color=CAFF3C&line=8AFF57&point=E8F5E1&area=true&hide_border=true&custom_title=Ali%20Hasnain%20-%20Contribution%20Activity"
+  width="100%"
+  alt="GitHub Contribution Activity"
 />
 
 <br><br>
 
-### 💻 Top Languages
+### 💻 Most Used Languages
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizvi&layout=compact&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0B0F0D"
-alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizvi&layout=compact&langs_count=8&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0B0F0D"
+  width="420"
+  alt="Most Used Programming Languages"
 />
 
 </div>
-
 ---
 
 ## `09 // CONTRIBUTION SNAKE`
@@ -361,13 +358,13 @@ alt="GitHub Profile Summary"
 <div align="center">
 
 ```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│                     BUILDING WITH AI.                        │
-│                     SOLVING WITH CODE.                       │
-│                     LEARNING EVERY DAY.                      │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
+                        ╭──────────────────────────────────────────────────────────────╮
+                        │                                                              │
+                        │                     BUILDING WITH AI.                        │
+                        │                     SOLVING WITH CODE.                       │
+                        │                     LEARNING EVERY DAY.                      │
+                        │                                                              │
+                        ╰──────────────────────────────────────────────────────────────╯
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0B0F0D&height=100&section=footer" />
