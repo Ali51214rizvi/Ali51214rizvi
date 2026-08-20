@@ -234,7 +234,7 @@ open_to:
 ### 🔥 Contribution Streak
 
 <img
-  src="https://streak-stats.demolab.com/?user=Ali51214rizvi&hide_border=true&background=0B0F0D&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C&sideLabels=8AFF57&currStreakNum=E8F5E1&sideNums=E8F5E1&dates=8B949E"
+   src="https://streak-stats.demolab.com/?user=Ali51214rizvi&theme=dark&hide_border=true"
   width="49%"
   alt="GitHub Contribution Streak"
 />
@@ -253,8 +253,8 @@ open_to:
 
 ### 💻 Most Used Languages
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizvi&layout=compact&langs_count=8&hide_border=true&title_color=CAFF3C&text_color=E8F5E1&bg_color=0B0F0D"
+<img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizvi&layout=compact&hide_border=true&langs_count=8"
   width="420"
   alt="Most Used Programming Languages"
 />
