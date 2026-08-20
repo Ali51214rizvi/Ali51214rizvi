@@ -299,9 +299,9 @@ A visual representation of my GitHub contribution activity.
 <div align="center">
 
 <img
-src="https://github-profile-trophy.vercel.app/?username=Ali51214rizvi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"
-width="100%"
-alt="GitHub Trophies"
+  src="https://github-profile-trophy.screw-hand.vercel.app/?username=Ali51214rizvi&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7"
+  width="100%"
+  alt="GitHub Trophies"
 />
 
 </div>
@@ -363,9 +363,9 @@ alt="GitHub Profile Summary"
 ```text
 ╭──────────────────────────────────────────────────────────────╮
 │                                                              │
-│   BUILDING WITH AI.                                         │
-│   SOLVING WITH CODE.                                        │
-│   LEARNING EVERY DAY.                                       │
+│                     BUILDING WITH AI.                        │
+│                     SOLVING WITH CODE.                       │
+│                     LEARNING EVERY DAY.                      │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
