@@ -259,7 +259,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali51214rizv
   alt="Most Used Programming Languages"
 />
 
-</div>
 ---
 
 ## `09 // CONTRIBUTION SNAKE`
